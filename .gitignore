@@ -1,0 +1,7 @@
+gpx/*.gpx
+tiles/*.png
+virtualenv
+venv/*
+*.png
+.idea/*
+__pycache__/*

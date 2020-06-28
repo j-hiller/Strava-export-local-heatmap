@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="GPSBabel - http://www.gpsbabel.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+  <metadata>
+    <time>2020-06-20T12:15:55.861Z</time>
+  </metadata>
+  <trk>
+    <name>Test File</name>
+    <type>9</type>
+    <trkseg>
+      <trkpt lat="50.784026847" lon="6.090425028">
+        <ele>193.480</ele>
+        <time>2020-06-20T14:00:03Z</time>
+      </trkpt>
+      <trkpt lat="50.785953252" lon="6.092227473">
+        <ele>181.400</ele>
+        <time>2020-06-20T14:00:20Z</time>
+      </trkpt>
+      <trkpt lat="50.787436435" lon="6.093803895">
+        <ele>170.430</ele>
+        <time>2020-06-20T14:00:34Z</time>
+      </trkpt>
+      <trkpt lat="50.788670882" lon="6.095198644">
+        <ele>165.400</ele>
+        <time>2020-06-20T14:00:46Z</time>
+      </trkpt>
+      <trkpt lat="50.789950730" lon="6.096404022">
+        <ele>161.510</ele>
+        <time>2020-06-20T14:00:57Z</time>
+      </trkpt>
+      <trkpt lat="50.790913820" lon="6.097305244">
+        <ele>156.800</ele>
+        <time>2020-06-20T14:01:05Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

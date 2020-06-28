@@ -1,0 +1,6 @@
+matplotlib==3.2.2
+numpy==1.19.0
+pandas==1.0.5
+fitdecode==0.6.0
+requests==2.24.0
+progressbar2==3.51.4
